@@ -1,7 +1,5 @@
 # MultiMode-Counter
 
-# Digital Verification Project
-
 ## Contents
 
 1. Project Brief
